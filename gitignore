@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Datos y logs generados por el pipeline
+data/
+logs/
+
+# Credenciales y configuración local
+.env
+
+# Editor
+.vscode/
